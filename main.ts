@@ -5,7 +5,7 @@
  * This program shows the area of a rectangle
 */
 
-basic.showString('A rectangle has dimenstions 5 cm & 3 cm. the perimiter would be:')
+basic.showString('A rectangle has dimensions 5 cm & 3 cm. the perimeter would be:')
 basic.showString( ((5 + 3) * 2).toString() + ' cm')
 basic.showString('The area would be:')
 basic.showString((5 * 3).toString() + ('cm^2'))
